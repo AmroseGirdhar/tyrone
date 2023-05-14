@@ -2,7 +2,6 @@
 *.egg
 *.egg-info
 *.log
-*.snap
 *.fuse_hidden*
 /.mypy_cache
 /.db.lock
