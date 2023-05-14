@@ -1,6 +1,7 @@
 [submodule "src/maasui/src"]
 	path = src/maasui/src
-	url = https://github.com/canonical/maas-ui
+	#url = https://github.com/canonical/maas-ui
+	url = https://github.com/AmroseGirdhar/tyrone-ui
 	branch = main
 [submodule "src/maas-offline-docs/src"]
 	path = src/maas-offline-docs/src

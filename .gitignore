@@ -43,7 +43,6 @@
 /release.macaroon
 /release.lp
 /services/*/supervise
-/snap/.snapcraft
 /src/maasui/build
 /src/maasui/tarballs
 /src/maasui/nodejs

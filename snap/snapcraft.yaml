@@ -1,6 +1,6 @@
-name: maas
-adopt-info: maas
-summary: Metal as a Service
+name: tyroneM
+adopt-info: tyroneM
+summary: Tyrone Metal Solution
 description: |
   Total automation of your physical servers for amazing data center operational efficiency.
 grade: stable
